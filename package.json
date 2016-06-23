@@ -1,0 +1,25 @@
+{
+  "name": "server",
+  "version": "0.1.0npm i",
+  "description": "Christ Medical Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christmedical/christ-medical-server.git"
+  },
+  "keywords": [],
+  "author": "Jamey McElveen <jamey@mcelveen.us>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/christmedical/christ-medical-server/issues"
+  },
+  "homepage": "https://github.com/christmedical/christ-medical-server#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "express-pouchdb": "^1.0.4",
+    "pouchdb": "^5.4.4"
+  }
+}

@@ -1,3 +1,12 @@
+# PouchDB
+_replicator
+_users
+master
+pouch__all_dbs__
+
+# JetBrains
+.idea
+
 # Logs
 logs
 *.log
